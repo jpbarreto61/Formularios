@@ -10,6 +10,25 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="lblDocumento" runat="server" Text="Label"></asp:Label>
+            <br />
+            <asp:Label ID="lblNombre" runat="server" Text="Label"></asp:Label>
+            <br />
+            <asp:Label ID="lblApellido" runat="server" Text="Label"></asp:Label>
+            <br />
+            <asp:Label ID="lblDireccion" runat="server" Text="Label"></asp:Label>
+            <br />
+            <asp:Label ID="lblTelefono" runat="server" Text="Label"></asp:Label>
+            <br />
+            <asp:Label ID="lblCorreo" runat="server" Text="Label"></asp:Label>
+            <br />
+            <asp:Label ID="lblFechaNac" runat="server" Text="Label"></asp:Label>
+            <br />
+            <asp:Label ID="lblPersona" runat="server" Text="Perona"></asp:Label>
+            <br />
+            <br />
+            <br />
+            <asp:Button ID="btnAnterior" runat="server" Text="Anterior" OnClick="Button1_Click" />
         </div>
     </form>
 </body>

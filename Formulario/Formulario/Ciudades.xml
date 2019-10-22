@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Ciudades>
+  <Categoria>
+    <nombre>Cartagena</nombre>
+    <idNombre>1</idNombre>
+  </Categoria>
+
+  <Categoria>
+    <nombre>Bogota</nombre>
+    <idNombre>2</idNombre>
+  </Categoria>
+
+  <Categoria>
+    <nombre>Medellin</nombre>
+    <idNombre>3</idNombre>
+  </Categoria>
+
+  <Categoria>
+    <nombre>Cali</nombre>
+    <idNombre>4</idNombre>
+  </Categoria>
+</Ciudades>
