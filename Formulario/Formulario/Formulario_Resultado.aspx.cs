@@ -47,6 +47,8 @@ namespace Formulario
             Session["correo"] = txtCorreo.Text;
             Session["fechaNac"] = txtFechaNac.Text;
 
+            Session["ciudades"] = ddlLista.SelectedItem.ToString();
+
            
 
             if (rbNatural.Checked==true)

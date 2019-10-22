@@ -19,6 +19,7 @@ namespace Formulario
             lblCorreo.Text = Session["correo"].ToString();
             lblFechaNac.Text = Session["fechaNac"].ToString();
             lblPersona.Text = Session["persona"].ToString();
+            lblCiudad.Text = Session["ciudades"].ToString();
         }
 
         protected void Button1_Click(object sender, EventArgs e)
